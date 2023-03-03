@@ -1,2 +1,2 @@
-# new-repo
-my repo
+# my-repo
+my new test repo
